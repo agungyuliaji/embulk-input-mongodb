@@ -5,7 +5,7 @@
 /tmp/
 *.gemspec
 .gradle/
-/classpath/
+# /classpath/
 build/
 .idea
 *.iml
